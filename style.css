@@ -177,6 +177,7 @@ body{
 .rating-star-style{
     font-size: 30px;
     padding-right: 9px;
+    color: #FFC107;
 }
 .offer-btn-container-styles{
     margin-top: 10%;
@@ -201,4 +202,33 @@ body{
 .trip-card-flex-styles{
     display: flex;
     justify-content: space-between;
+}
+.trip-card-img-style{
+    width: 100%;
+}
+.trip-space-card-style{
+    margin-right: 10px;
+}
+.rating-flex-style{
+    display: flex;
+}
+.size-icon{
+    padding-right: 10px;
+    font-size: 20px;
+    color:#FFC107;
+    padding-bottom: 40px;
+}
+.card-header-style{
+     font-family: 'Caprasimo', cursive;
+}
+.card-desc{
+    font-size: 10px;
+    
+}
+.trip-card-shadow-container-style{
+    box-shadow: 0px 0px 15px 1px #000;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 10px;
 }
