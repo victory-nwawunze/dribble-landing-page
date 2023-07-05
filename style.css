@@ -195,3 +195,39 @@ body{
     color: #FFC107;
     font-weight: bold;
 }
+.trip-container-styles{
+    margin-top: 5%;
+}
+.trip-flex-styles{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.trip-img-size{
+    width: 100%;
+}
+.image-one-container-style{
+    width: 25%;
+    
+}
+.rating-and-price-flex-styles{
+    display: flex;
+    align-items: center;
+}
+.rating-container-styles{
+    display: flex;
+    margin-right:10px ;
+}
+.card-amount-style{
+    padding-left: 160px;
+}
+.card-text-container-styles{
+  box-shadow: 0px 0px 15px 1px #000;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.card-heading-text{
+    font-family: 'Caprasimo', cursive;
+}
