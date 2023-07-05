@@ -87,10 +87,58 @@ body{
 }
 .flex-play-btn{
     display: flex;
+    align-items: center;
 }
 .margin-play-btn{
     margin-left: 30px;
 }
 .icon-size{
     font-size: 30px;
+}
+.video-btn-styles{
+    border: none;
+    background-color: #F2FFE6;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+.intro-container-styles{
+    margin-top: 6%;
+}
+.intro-text-styles{
+    font-size: 2.1rem;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+.intro-cards-container-styles{
+    margin-top: 7%;
+}
+.intro-cards-flex-styles{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.night-icon-style{
+    font-size: 39px;
+    padding-left: 4%;
+}
+.card-text-style{
+    text-align: center;
+}
+.card-desc-style{
+    font-weight: bold;
+}
+.card-desc-text-style{
+    font-size: 13px;
+}
+.shadow-card-text-style{
+    text-align: center;
+    box-shadow: -2px 11px 9px 1px #000;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 10px;
+    border-radius: 5px;
 }
