@@ -195,3 +195,10 @@ body{
     color: #FFC107;
     font-weight: bold;
 }
+.trip-card-container-styles{
+    margin-top: 10%;
+}
+.trip-card-flex-styles{
+    display: flex;
+    justify-content: space-between;
+}
