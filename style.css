@@ -167,3 +167,31 @@ body{
 .style-offer-text{
     margin-top: 30px;
 }
+.rating-icon-container-styles{
+    margin-top: 10px;
+}
+.rating-icon-flex-styles{
+    display: flex;
+    align-items: center;
+}
+.rating-star-style{
+    font-size: 30px;
+    padding-right: 9px;
+}
+.offer-btn-container-styles{
+    margin-top: 10%;
+}
+.offer-btn-flex-styles{
+    display: flex;
+    align-items: center;
+}
+.offer-price-style{
+    border: none;
+    background-color: #F2FFE6;
+    font-size: 12px;
+    margin-right: 5px;
+    cursor: pointer;
+    margin-left: 10px;
+    color: #FFC107;
+    font-weight: bold;
+}
