@@ -391,7 +391,7 @@ font-size: 10px;
 
 }
 .customer-prepare-container-style{
-    margin-top: 40px;
+    margin-top: 10%;
     text-align: center;
     width: 100%;
     background-color: #F1F3F4;
@@ -452,4 +452,51 @@ input::placeholder{
     color: #ADACAF;
     padding-left: 5px;
     font-size: 10px;
+}
+.footer-container-style{
+    background-color: #0a9f9c;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 10%;
+}
+.footer-flex-item-style{
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-between;
+    /* padding: 50px; */
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-transform: capitalize;
+    color: white;
+}
+.socials-icon-container-style{
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+.socials-icon-flex-style{
+    display: flex;
+    align-items: center;
+}
+.space-social-icon-style{
+    padding-right: 10px;
+}
+.footer-text-style{
+    font-size: 17px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+.faqs-text-style{
+    text-transform: uppercase;
+}
+.copyright-style{
+    font-size: 13px;
+    margin-top: 40%;
+}
+.style-footer-text{
+    font-size: 12px;
 }
