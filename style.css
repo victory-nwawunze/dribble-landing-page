@@ -290,3 +290,10 @@ body {
 .trip-card-header-text{
     font-size: 1.1rem;
 }
+.container-for-flex-icons{
+    display: flex;
+    align-items: center;
+}
+.space-all-icons{
+    padding-right: 20px;
+}
