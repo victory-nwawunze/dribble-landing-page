@@ -327,3 +327,15 @@ body {
     font-size: 20px;
     cursor: pointer;
 }
+.customer-experience-text-container-styles{
+    margin-top: 5%;
+}
+.customer-experience-text-container-styles > h1{
+    font-family: "Caprasimo", cursive;
+    /* font-size: 1.3rem; */
+}
+.customer-experience-text-styles> span{
+    /* color: red; */
+    font-size: 1.4rem;
+    font-weight: 500 !important;
+}
