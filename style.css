@@ -337,3 +337,56 @@ body {
     font-size: 1.4rem;
     font-weight: 500 !important;
 }
+.customer-review-container-style{
+    margin-top: 7%;
+}
+.customer-review-grid-style{
+    display: flex;
+    /* align-items: center; */
+}
+.user-img-and-container-style{
+width: 70%;
+}
+.user-img-style{
+    width: 90%;
+    border-top-left-radius: 50%;
+}
+.user-review-text-container-style{
+    background-color: #0a9f9c;
+    padding-top: 80px;
+    padding-left: 40px;
+    color: white;
+    border-bottom-right-radius: 50%;
+}
+.customer-container-rating-style{
+    padding-top: 10px;
+}
+.customer-rating-flex-style{
+    display: flex;
+}
+.user-rating-style{
+    color: #ffc107;
+    font-size: 24px;
+    cursor: pointer;
+    padding-left: 5px;
+}
+.user-name-and-rating-flex-style{
+    display: flex;
+    align-items: center;
+}
+.space-user-review-text-style{
+    padding-left: 20px;
+}
+.customer-review-style{
+    padding-top: 10px;
+    font-size: 15px;
+    color: #ADACAF;
+}
+.customer-name-style{
+    /* font-family: "Caprasimo", cursive; */
+    font-weight: bold;
+}
+.customer-occupation-style{
+font-size: 10px;
+
+}
